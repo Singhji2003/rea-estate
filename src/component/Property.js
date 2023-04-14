@@ -45,7 +45,7 @@ export default class Property extends Component {
 
     return (
         <>
-        <img src={require("./img/bg.jpg")} alt="" className='mt-6 rounded-lg'  />
+        <img src={require("./img/home.jpeg")} alt="" className='mt-6 rounded-lg sticky top-0 -z-10'  />
        <div class="content bg-gray-100 mt-2 pt-4">
         {
             this.state.property.map((element)=>{

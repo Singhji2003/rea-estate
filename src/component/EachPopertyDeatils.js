@@ -4,7 +4,6 @@ export default class EachPopertyDeatils extends Component {
   render(props) {
     let { address, imgUrl} = this.props
     return (
-      <div>
          <>
        <div class="item  mt-2">
             <div class="img flex  justify-center mt-6">
@@ -18,7 +17,7 @@ export default class EachPopertyDeatils extends Component {
                         document.getElementById('numbers').style.display = 'block'
                         document.getElementById('number').innerText = `Number: 1234567890`
                     }}><i class="fa-solid fa-phone fa-lg "></i></span>
-                    <span class="border-2 ml-10 border-blue-400 rounded-[50%] p-2 w-11 text-center text-blue-400"><i class="fa-solid fa-location-dot fa-lg"></i></span>
+                   <a href="https://goo.gl/maps/FGh1QKnwXvRVgNZb6" rel="noreferrer" target = "_blank"> <span class="border-2 ml-10 border-blue-400 rounded-[50%] p-2 w-11 text-center text-blue-400 block"><i class="fa-solid fa-location-dot fa-lg"></i></span></a>
                     <span class="border-2 ml-10 border-blue-400 rounded-[50%] p-2 w-11 text-center" onClick={()=>{
                         document.getElementById('numbers').style.display = 'block'
                         document.getElementById('number').innerText = `Number: 0987654321`
@@ -43,8 +42,10 @@ export default class EachPopertyDeatils extends Component {
             <i class="fa-solid fa-map text-gray-800"></i>
             <p>Main Market, Govt School, Hodal, Hodal - 121106 (Near.Maharani College)</p>
         </div>
+        <div className="map flex justify-center mt-5">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14030.314916849467!2d77.09096965!3d28.46211295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d18dd961731df%3A0xe767655636a2b196!2sRidgewood%20Estate!5e0!3m2!1sen!2sin!4v1681488765491!5m2!1sen!2sin" allowFullScreen="" loading="lazy" title='singh ji' referrerPolicy="no-referrer-when-downgrade" className = "align-center"></iframe>
+        </div>
      </>
-      </div>
     )
   }
 }
