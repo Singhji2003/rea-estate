@@ -45,7 +45,9 @@ export default class Property extends Component {
 
     return (
         <>
+        <div className="homeimg flex justify-center">
         <img src={require("./img/home.jpeg")} alt="" className='mt-6 rounded-lg sticky top-0 -z-10'  />
+        </div>
        <div class="content bg-gray-100 mt-2 pt-4">
         {
             this.state.property.map((element)=>{
