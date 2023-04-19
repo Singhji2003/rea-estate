@@ -1,0 +1,41 @@
+[
+    {"name": "JP Real Estate",
+    "address":"Faridabad",
+    "fullAddress":"Tikavli Faridabad",
+    "id":"Faridabad",
+    "years" : 3,
+    "imgUrl": "https://content.jdmagicbox.com/comp/def_content/estate_agents/default-estate-agents-1-250.jpg",
+    "mapAddress":"https://goo.gl/maps/FGh1QKnwXvRVgNZb6",
+    "iframeAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14030.314916849467!2d77.09096965!3d28.46211295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d18dd961731df%3A0xe767655636a2b196!2sRidgewood%20Estate!5e0!3m2!1sen!2sin!4v1681488765491!5m2!1sen!2sin"
+},
+    {"name": "JP Real Estate",
+    "address":"Ballabgarh",
+    "fullAddress":"Sector 64/65 Ballabgarh",
+    "id":"Ballabgarh",
+    "years" : 6,
+    "imgUrl": "https://content.jdmagicbox.com/comp/palwal/u4/9999p1275.1275.101226153231.c3u4/catalogue/attri-properties-palwal-estate-agents-kr2zz5cunz-250.jpg?clr=#660000",
+    "mapAddress":"https://goo.gl/maps/FGh1QKnwXvRVgNZb6",
+    "iframeAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14030.314916849467!2d77.09096965!3d28.46211295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d18dd961731df%3A0xe767655636a2b196!2sRidgewood%20Estate!5e0!3m2!1sen!2sin!4v1681488765491!5m2!1sen!2sin"
+
+},
+    {"name": "JP Real Estate",
+    "address":"Palwan",
+    "fullAddress":"Alligardh Road Palwan",
+    "id":"palwan",
+    "years" : 8,
+    "imgUrl": "https://content.jdmagicbox.com/def_content/estate_agents_for_residence/default-estate-agents-for-residence-9-250.jpg",
+    "mapAddress":"https://goo.gl/maps/FGh1QKnwXvRVgNZb6",
+    "iframeAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14030.314916849467!2d77.09096965!3d28.46211295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d18dd961731df%3A0xe767655636a2b196!2sRidgewood%20Estate!5e0!3m2!1sen!2sin!4v1681488765491!5m2!1sen!2sin"
+
+},
+    {"name": "JP Real Estate",
+    "address":"Faridabad",
+    "fullAddress":"E- Block Faridabad",
+    "id":"Faridabad",
+    "years" : 1,
+    "imgUrl": "https://content.jdmagicbox.com/comp/mumbai/c3/022pxx22.xx22.170824124433.y4c3/catalogue/propertybazaar-com-mumbai-internet-websites-for-estate-agent-jzug839es8-250.jpg",
+    "mapAddress":"https://goo.gl/maps/FGh1QKnwXvRVgNZb6",
+    "iframeAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14030.314916849467!2d77.09096965!3d28.46211295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d18dd961731df%3A0xe767655636a2b196!2sRidgewood%20Estate!5e0!3m2!1sen!2sin!4v1681488765491!5m2!1sen!2sin"
+
+}
+]
