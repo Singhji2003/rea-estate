@@ -1,41 +1,38 @@
 [
     {"name": "JP Real Estate",
-    "address":"Faridabad",
-    "fullAddress":"Tikavli Faridabad",
+    "address":"Tikawali",
+    "fullAddress":"Tikawali Faridabad Haryana 121002",
     "id":"Faridabad",
     "years" : 3,
-    "imgUrl": "https://content.jdmagicbox.com/comp/def_content/estate_agents/default-estate-agents-1-250.jpg",
-    "mapAddress":"https://goo.gl/maps/FGh1QKnwXvRVgNZb6",
-    "iframeAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14030.314916849467!2d77.09096965!3d28.46211295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d18dd961731df%3A0xe767655636a2b196!2sRidgewood%20Estate!5e0!3m2!1sen!2sin!4v1681488765491!5m2!1sen!2sin"
+    "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipPCLjhW2miBJiWhNwBY7NQm6jSW-mOnzVjBvaxw=w408-h306-k-no",
+    "mapAddress":"goo.gl/maps/vdFkCZe82Dw5wd4J9",
+    "iframeAddress": "www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14034.536842180632!2d77.36624195!3d28.4302923!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cdd38233bef57%3A0x552f557d76a45489!2sTikawali%2C%20Faridabad%2C%20Haryana%20121002!5e0!3m2!1sen!2sin!4v1682133958087!5m2!1sen!2sin"
 },
     {"name": "JP Real Estate",
-    "address":"Ballabgarh",
-    "fullAddress":"Sector 64/65 Ballabgarh",
+    "address":"Sector-64",
+    "fullAddress":"Sector-64 Faridabad Haryana 121004",
     "id":"Ballabgarh",
     "years" : 6,
-    "imgUrl": "https://content.jdmagicbox.com/comp/palwal/u4/9999p1275.1275.101226153231.c3u4/catalogue/attri-properties-palwal-estate-agents-kr2zz5cunz-250.jpg?clr=#660000",
-    "mapAddress":"https://goo.gl/maps/FGh1QKnwXvRVgNZb6",
-    "iframeAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14030.314916849467!2d77.09096965!3d28.46211295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d18dd961731df%3A0xe767655636a2b196!2sRidgewood%20Estate!5e0!3m2!1sen!2sin!4v1681488765491!5m2!1sen!2sin"
-
+    "imgUrl": "https://lh5.googleusercontent.com/p/AF1QipNXlNTQM0NznF1AIDxYqt9VJFI4TN_GQvtTzTgy=w408-h522-k-no",
+    "mapAddress":"https://goo.gl/maps/XrYTFNQ9HxUR7HC39",
+    "iframeAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7024.290911438807!2d77.33993695!3d28.3241995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cdb05f5826b07%3A0x2b96fb464d334585!2sSector%2064%2C%20Faridabad%2C%20Haryana%20121004!5e0!3m2!1sen!2sin!4v1682134170179!5m2!1sen!2sin"
 },
     {"name": "JP Real Estate",
-    "address":"Palwan",
-    "fullAddress":"Alligardh Road Palwan",
-    "id":"palwan",
+    "address":"Aligarh",
+    "fullAddress":"Aligarh Palwal Rd Haryana",
+    "id":"Aligarh",
     "years" : 8,
     "imgUrl": "https://content.jdmagicbox.com/def_content/estate_agents_for_residence/default-estate-agents-for-residence-9-250.jpg",
-    "mapAddress":"https://goo.gl/maps/FGh1QKnwXvRVgNZb6",
-    "iframeAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14030.314916849467!2d77.09096965!3d28.46211295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d18dd961731df%3A0xe767655636a2b196!2sRidgewood%20Estate!5e0!3m2!1sen!2sin!4v1681488765491!5m2!1sen!2sin"
-
+    "mapAddress":"https://goo.gl/maps/CooCTqp3Upn5F7Pk7",
+    "iframeAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3522.107984412318!2d77.6598516!3d28.0211752!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cd24f759cd187%3A0x3870d8726f6dde9b!2sAligarh%20-%20Palwal%20Rd%2C%20Jattari%2C%20Uttar%20Pradesh!5e0!3m2!1sen!2sin!4v1682134244189!5m2!1sen!2sin"
 },
     {"name": "JP Real Estate",
     "address":"Faridabad",
-    "fullAddress":"E- Block Faridabad",
+    "fullAddress":"E Block Sector 85 Faridabad Haryana 121002",
     "id":"Faridabad",
     "years" : 1,
     "imgUrl": "https://content.jdmagicbox.com/comp/mumbai/c3/022pxx22.xx22.170824124433.y4c3/catalogue/propertybazaar-com-mumbai-internet-websites-for-estate-agent-jzug839es8-250.jpg",
-    "mapAddress":"https://goo.gl/maps/FGh1QKnwXvRVgNZb6",
-    "iframeAddress": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14030.314916849467!2d77.09096965!3d28.46211295!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390d18dd961731df%3A0xe767655636a2b196!2sRidgewood%20Estate!5e0!3m2!1sen!2sin!4v1681488765491!5m2!1sen!2sin"
-
+    "mapAddress":"https://goo.gl/maps/VZtBsGNYGK25zumW6",
+    "iframeAddress":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d14037.167879840434!2d77.36107599999998!3d28.410445649999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390cdd212b206075%3A0xd47d72a0d146037f!2sE%20Block%2C%20Sector%2085%2C%20Faridabad%2C%20Haryana%20121002!5e0!3m2!1sen!2sin!4v1682134424275!5m2!1sen!2sin"
 }
 ]
